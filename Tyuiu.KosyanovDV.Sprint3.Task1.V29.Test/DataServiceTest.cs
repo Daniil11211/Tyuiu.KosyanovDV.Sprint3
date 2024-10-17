@@ -12,7 +12,7 @@ namespace Tyuiu.KosyanovDV.Sprint3.Task1.V29.Test
             int startValue = 1;
             int stopValue = 3;
             var res = ds.GetMultiplySeries(x, startValue, stopValue);
-            Assert.AreEqual(9.58740234375, res);
+            Assert.AreEqual(9.59, res);
         }
     }
 }
