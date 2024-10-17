@@ -40,7 +40,7 @@ namespace Tyuiu.KosyanovDV.Sprint3.Task1.V29
             Console.WriteLine("*****************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                    *");
             Console.WriteLine("*****************************************************************");
-            Console.WriteLine($"* {ds.GetMultiplySeries(x, startValue, endValue)} ");
+            Console.WriteLine($"* {Math.Round(ds.GetMultiplySeries(x, startValue, endValue), 2)} ");
             Console.WriteLine("*****************************************************************");
 
 
