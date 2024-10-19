@@ -11,7 +11,6 @@ namespace Tyuiu.KosyanovDV.Sprint3.Task5.V30.Lib
                 for (int j = startValue2; j <= stopValue2; j++)
                 {
                     sum = sum + ((Math.Pow(x, 3) - startValue2) + x);
-                    startValue2++;
                 }
                     
             }
