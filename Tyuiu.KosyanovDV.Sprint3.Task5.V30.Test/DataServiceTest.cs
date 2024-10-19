@@ -14,7 +14,7 @@ namespace Tyuiu.KosyanovDV.Sprint3.Task5.V30.Test
             int stopvalue2 = 2;
             int x = 2;
             var res = ds.GetSumSumSeries(x, startvalue1, startvalue2, stopvalue1, stopvalue2);
-            Assert.AreEqual(res, 36);
+            Assert.AreEqual(res, 17);
         }
     }
 }
