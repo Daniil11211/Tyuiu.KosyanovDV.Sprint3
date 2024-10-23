@@ -1,6 +1,6 @@
 ﻿using Tyuiu.KosyanovDV.Sprint3.Task6.V30.Lib;
 
-namespace Tyuiu.KosyanovDV.Sprint3.Task5.V30
+namespace Tyuiu.KosyanovDV.Sprint3.Task6.V30
 {
     class Program
     {
@@ -10,7 +10,7 @@ namespace Tyuiu.KosyanovDV.Sprint3.Task5.V30
             Console.Title = "Спринт | Выполнил: Косьянов Д.В. | ПКТб-24-1";
             Console.WriteLine("*****************************************************************");
             Console.WriteLine("* Спринт #3                                                     *");
-            Console.WriteLine("* Тема: Вложенные циклы                                         *");
+            Console.WriteLine("* Тема: Обработка целочисленной информации                      *");
             Console.WriteLine("* Задание #6                                                    *");
             Console.WriteLine("* Вариант #30                                                   *");
             Console.WriteLine("* Выполнил : Косьянов Даниил Васильевич | ПКТб-24-1             *");
